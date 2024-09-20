@@ -840,7 +840,7 @@ CETV4,http://123.6.102.32:11789/990.php?id=zgjy4hd8m/8000000.m3u8
 凤凰资讯,http://115.221.90.169:8888/rtp/233.50.200.192:5140
 凤凰资讯,http://183.159.157.94:8686/rtp/233.50.200.192:5140
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk$1280x720
-星空卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct$1920x1080
+星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 PopC,http://php.jdshipin.com:8880/TVOD/iptv.php?id=popc$1920x1080
 NOW爆谷台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=now$1920x1080
 NOW爆谷星影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=nowsatr$1920x1080
